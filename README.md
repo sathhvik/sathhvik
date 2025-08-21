@@ -5,7 +5,7 @@
 
 ---
 <h1 align="center">
-## 🔗 Connect With Me  
+🔗 Connect With Me  
 <p align="center">
   <a href="mailto:sathvik9989@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="70" height="70" title="Email Me" />
@@ -18,7 +18,7 @@
 
 ---
 <h1 align="center">
-## 🛠 Skills & Tools  
+🛠 Skills & Tools  
 <p align="center">
   <img src="https://img.icons8.com/fluency/64/python.png" title="Python" />
   <img src="https://img.icons8.com/color/64/amazon-web-services.png" title="AWS" />
