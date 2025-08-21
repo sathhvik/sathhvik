@@ -9,13 +9,14 @@
 <h1 align="center">
 🔗 Connect With Me  
 <p align="center">
+   <a href="https://www.linkedin.com/in/sathhvik" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin-circled.png" width="70" height="70" title="LinkedIn Profile" />
+  </a>
   <a href="mailto:sathvik9989@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="70" height="70" title="Email Me" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sathhvik" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/linkedin-circled.png" width="70" height="70" title="LinkedIn Profile" />
-  </a>
+ 
 </p>
 
 ---
