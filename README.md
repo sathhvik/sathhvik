@@ -26,11 +26,6 @@
 
 ---
 
-## 📥 Resume Download  
-👉 [**Download My Resume (PDF)**](_Sathvik_Reddy_Resume.pdf)  
-
----
-
 
 
 
