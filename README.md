@@ -1,27 +1,24 @@
 <!-- Futuristic Banner with Animated Gradient -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00C4FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Sathvik+Reddy&repeat=false&pause=1000" />
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00C4FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Sathvik+Reddy&repeat=false&pause=1000" />
 </h1>
 
 ---
-<h1 align="center">
-🔗 Connect With Me  
+
+<h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
-   <a href="https://www.linkedin.com/in/sathhvik" target="_blank">
+  <a href="https://www.linkedin.com/in/sathhvik" target="_blank">
     <img src="https://img.icons8.com/fluency/96/linkedin-circled.png" width="70" height="70" title="LinkedIn Profile" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sathvik9989@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="70" height="70" title="Email Me" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
- 
 </p>
 
 ---
-<h1 align="center">
-🛠 Skills & Tools  
+
+<h2 align="center">🛠 Skills & Tools</h2>
 <p align="center">
   <img src="https://img.icons8.com/fluency/64/python.png" title="Python" />
   <img src="https://img.icons8.com/color/64/amazon-web-services.png" title="AWS" />
@@ -32,6 +29,3 @@
 </p>
 
 ---
-
-<p align="center">
-  
