@@ -4,7 +4,7 @@
 </h1>
 
 ---
-
+<h1 align="center">
 ## 🔗 Connect With Me  
 <p align="center">
   <a href="mailto:sathvik9989@gmail.com" target="_blank">
@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+<h1 align="center">
 ## 🛠 Skills & Tools  
 <p align="center">
   <img src="https://img.icons8.com/fluency/64/python.png" title="Python" />
