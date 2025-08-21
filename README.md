@@ -31,5 +31,4 @@
 ---
 
 <p align="center">
-  ⭐ <b>If you like my profile, star the repo & connect on LinkedIn!</b> ⭐
-</p>
+  
