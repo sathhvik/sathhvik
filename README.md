@@ -1,8 +1,7 @@
 <!-- Futuristic Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00C4FF;">Sathvik Reddy</span></h1>
 <p align="center">
-  🚀 <b>Operations Manager | Tech Strategist | Cloud & DevOps Enthusiast</b> 🚀
-</p>
+  
 <hr style="border: 1px solid #00C4FF;" />
 
 ## 🔗 Connect With Me  
@@ -30,6 +29,4 @@
 
 ---
 
-<p align="center">
-  ⭐ <b>If you like my profile, star the repo & connect on LinkedIn!</b> ⭐
-</p>
+
