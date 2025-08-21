@@ -1,6 +1,7 @@
 <!-- Futuristic Banner with Animated Gradient -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00C4FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Sathvik+Reddy" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=00C4FF&height=100&section=header&text=👋%20Hi,%20I'm%20Sathvik%20Reddy&fontSize=30&fontAlign=50&fontAlignY=50" />
+
 </h1>
 
 ---
